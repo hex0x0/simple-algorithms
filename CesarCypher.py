@@ -48,7 +48,7 @@ def decodeMsg(msg):
     return ''.join(newMsg)
 
 
-
+print(cypher('eu te amo muito'))
 print(decodeMsg('rod'))
 
 

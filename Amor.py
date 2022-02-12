@@ -1,4 +1,4 @@
-palavra='amor'
+palavra='eu te amo meu amor'
 
 aux=''
 for c in palavra:
